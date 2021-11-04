@@ -16,4 +16,4 @@ In 2017, all the energy stocks did well, especially DQ with 199.4% return. Howev
 
 
 
-![2017 Refactored](https://user-images.githubusercontent.com/92328984/140254414-7c08ed84-b33f-4992-9afe-cf8dfb39c992.jpg)
+
