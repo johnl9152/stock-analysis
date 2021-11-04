@@ -10,10 +10,20 @@ The excel sheet for 2017 and 2018 green stock data table was downloaded and comp
 
 In 2017, all the energy stocks did well, especially DQ with 199.4% return. However, TERP was fairly under valued with -7.2% return in 2017. After a year, there was a big turnout for RUN and ENPH, only two companies to have positive turnout compared to the rest of the green stocks. All the rest of the companies except for RUN and ENPH with all negative returns.  
 
+The purpose of refactoring a list of codes or scripts is to shorten the time of how the code performs. Below screenshots are the message box of excel telling how long it took to code for each year.
+#### 2017 Original vs. Refactored script
+![2017 Original Script Time](https://user-images.githubusercontent.com/92328984/140257129-a528e50f-64dd-4860-9c9e-f03ccec833fc.JPG)
+![2017 Refactored Script Time](https://user-images.githubusercontent.com/92328984/140257717-f0377026-9fa0-474d-99ee-e5111f14b202.JPG)
 
+#### 2018 Original vs. Refactored script
+![2018 Original Script Time](https://user-images.githubusercontent.com/92328984/140257146-311b38cf-ad44-48bb-87d1-8039853da1bb.JPG)
+![2018 Refactored Script Time](https://user-images.githubusercontent.com/92328984/140257779-70707fd0-461b-4f80-84d5-8a1fc0390a52.JPG)
+As shown in the screenshots, the refactored script times were consistently below 1 second mark while the original script had some above 1 second mark and some below 1 second mark due to depending how the VBA was processing the data that would either shorten or lengthen the time it takes.
 
-
-
+## Summary
+1) What are the advantages or disadvantages of refactoring code?
+   The advantages of refactoring a code are increasing efficency of VBA running to solve the code. Long down the road, the script    will be longer and more complicated that it would take longer than the challenge we had. In order to decrease the timing, the      data analysts would take a look into the original code and figure out a way to make it more efficient and shorten the time to      run the code. Another advantage is that it cleans out any blemishes from complicated code that would make a reader confused but    later making sense since the code works at the end. A disadvantage or a flaw I could think of when refactoring a code is the cleaning up part
+2)How do these pros and cons apply to refactoring the original VBA script?
 
 
 
