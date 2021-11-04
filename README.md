@@ -22,8 +22,12 @@ As shown in the screenshots, the refactored script times were consistently below
 
 ## Summary
 1) What are the advantages or disadvantages of refactoring code?
-   The advantages of refactoring a code are increasing efficency of VBA running to solve the code. Long down the road, the script    will be longer and more complicated that it would take longer than the challenge we had. In order to decrease the timing, the      data analysts would take a look into the original code and figure out a way to make it more efficient and shorten the time to      run the code. Another advantage is that it cleans out any blemishes from complicated code that would make a reader confused but    later making sense since the code works at the end. A disadvantage or a flaw I could think of when refactoring a code is the cleaning up part
+
+   The advantages of refactoring a code are increasing efficency of VBA running to solve the code. Long down the road, the script    will be longer and more complicated that it would take longer than the challenge we had. In order to decrease the timing, the      data analysts would take a look into the original code and figure out a way to make it more efficient and shorten the time to      run the code. Another advantage is that it cleans out any blemishes from complicated code that would make a reader confused but    later making sense since the code works at the end. A disadvantage or a flaw I could think of when refactoring a code is the      cleaning up part. If the code already works, why would anyone want to go back and clean up to make it better? Also, it would      take a lot more time to brainstorm and come up with an efficent way to refactor the already written codes.
+   
 2)How do these pros and cons apply to refactoring the original VBA script?
+  
+  The biggest pro was that the code efficently ran without a problem. The con was the part where someone had to clean up and make   the code look nice for anyone to read, like commenting every single command line to tell or instruct what it needs to be done     with the code.
 
 
 
